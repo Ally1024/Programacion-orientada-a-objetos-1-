@@ -1,3 +1,6 @@
+import java.sql.SQLOutput;
+import java.util.Scanner;
+
 public class Librito {
     private String titulo;
     private String autor;
@@ -21,3 +24,4 @@ public class Librito {
         System.out.println(libro1.descripcion());
     }
 }
+
